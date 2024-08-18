@@ -1,6 +1,7 @@
 [![MasterHead](https://goodrequest-web-development.s3.eu-central-1.amazonaws.com/621cd8cab7c447c3b05a5157_Ako_20na_20_Vy_CC_81voj_20_Android_20aplika_CC_81cii_CC_81_20_Tipy_20a_20na_CC_81vody_20pre_20developerov_e2e1b4f7de.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shayan Alvi</h1>
 <h3 align="center">A passionate flutter developer.</h3>
+<h4 align="center">A computer science graduate with a broad spectrum of skills in programming languages and mobile development frameworks, I bring a deep understanding and hands-on experience in software development. My expertise spans across Flutter, C++, Python, C#, .NET, Java, mobile development, and HTML/CSS, which demonstrates my ability to develop diverse and robust applications across multiple platforms. My academic background and practical experience have equipped me with a strong problem-solving mindset and a keen eye for detail, enabling me to write efficient, scalable, and maintainable code. In addition to my technical skills, I possess strong communication and teamwork abilities, which I’ve honed through collaborative projects and internships. These experiences have taught me the importance of working effectively within a team, understanding client needs, and delivering projects on time.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
